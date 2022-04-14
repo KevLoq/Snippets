@@ -1,0 +1,2 @@
+add_executable(DisplayStandardVersion DisplayStandardVersion.cpp)
+add_executable(MySecondSnippet MySecondSnippet.cpp)
